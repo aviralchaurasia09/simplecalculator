@@ -1,4 +1,4 @@
-alert("Made by Aviral Chaurasia\n B-Tech Student\n ");
+alert("As you can see, there are three input fields:\n 1. Enter the first number in the field, such as 4, 5, etc.\n 2. Enter the second number, like 2 or 3, or 6 etc.\n 3. For the last input field, takes only operators are (+, -, *, /, %, *) Applying an operation to the above inputs.");
 
 const input_element = document.querySelector(".input");
 const output_operation_element = document.querySelector(".operation .value");
