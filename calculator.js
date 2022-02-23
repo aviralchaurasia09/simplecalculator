@@ -1,3 +1,5 @@
+alert("Made by Aviral Chaurasia /n B-Tech Student");
+
 const input_element = document.querySelector(".input");
 const output_operation_element = document.querySelector(".operation .value");
 const output_result_element = document.querySelector(".result .value");
